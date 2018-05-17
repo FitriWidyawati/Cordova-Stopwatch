@@ -1,0 +1,2 @@
+# Cordova-Stopwatch
+Stopwatch
